@@ -1,0 +1,23 @@
+  .pink{
+    color: rgb(255, 192, 203);
+  }
+  .blue{
+    color: rgb(22, 177, 224);
+  }
+  h1 ,h2 ,p{
+  text-align: center;
+  }
+  h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 5px gray;
+  border-bottom: solid 3px rgb(115, 114, 114);
+  text-align: center;
+}
+  
+  #basic {
+    font-weight: bold;
+  }
+
+  
